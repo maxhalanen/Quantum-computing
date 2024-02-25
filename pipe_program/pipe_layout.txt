@@ -1,0 +1,10 @@
+Layout:
+A - B
+    |
+D-/-C-/-E
+        |
+    F - G
+
+Broken pipe connections are denoted with,  -/-
+
+Functioning pipe connections are denoted with, | or -
